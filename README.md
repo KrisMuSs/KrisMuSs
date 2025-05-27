@@ -22,7 +22,7 @@ I’m a passionate iOS developer dedicated to crafting intuitive and engaging mo
 
 ## 🛠 Tech Stack
 
-- **Languages**: Swift, C
+- **Languages**: Swift, C++, C
 - **iOS**: SwiftUI, Combine, Async/Await
 - **Network**: URLSession, REST API, JSON
 - **Databases**: Firebase, SQL, PostgreSQL
@@ -31,9 +31,9 @@ I’m a passionate iOS developer dedicated to crafting intuitive and engaging mo
 
 ## 🌟 Projects
 
-- [📱 Mobile Messenger App](https://github.com/yourusername/MobileMessengerApp) – A messenger app built with SwiftUI and Firebase, featuring MVVM architecture, real-time chat, user authentication, and reactive programming with Combine.
-- [🗞 NewsApp](https://github.com/yourusername/NewsApp) – iOS news reader app using SwiftUI, Combine, and URLSession to fetch and display news with smooth image loading and refreshing capabilities.
-- [🧮 Calculator App](https://github.com/yourusername/CalculatorApp) – A simple SwiftUI calculator supporting basic arithmetic operations (+, -, ×, ÷), percentage, sign change, and clear functionality, built using MVVM.
+- [📱 Mobile Messenger App](https://github.com/KrisMuSs/MobileMessengerApp) – A messenger app built with SwiftUI and Firebase, featuring MVVM architecture, real-time chat, user authentication, and reactive programming with Combine.
+- [🗞 NewsApp](https://github.com/KrisMuSs/NewsApp) – iOS news reader app using SwiftUI, Combine, and URLSession to fetch and display news with smooth image loading and refreshing capabilities.
+- [🧮 Calculator App](https://github.com/KrisMuSs/CalculatorApp) – A simple SwiftUI calculator supporting basic arithmetic operations (+, -, ×, ÷), percentage, sign change, and clear functionality, built using MVVM.
 
 ## 📫 Get in Touch
 
@@ -43,3 +43,4 @@ Feel free to reach out if you want to discuss iOS development, collaborate on pr
 - 💬 Telegram: [@Kris_mu_s](https://t.me/Kris_mu_s)
 
 Thanks for visiting my profile! Let’s build something amazing together! 🚀
+
