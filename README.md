@@ -6,21 +6,21 @@
 
 I’m a passionate iOS developer dedicated to crafting intuitive and engaging mobile applications. With a solid background in Swift and C++, I love turning ideas into functional, user-friendly apps. My mission is to create software that not only fulfills users’ needs but also delivers a delightful experience. Additionally, I’m eager to deepen my understanding of Swift internals and explore effective methods for teaching programming problem-solving to beginners.
 
-## 🪧 Navigation
+# 🪧Navigation
 
 - [🚀 About Me](#about-me)
-- [🛠 Tech Stack](#tech-stack)
+- [🛠 Tech Stack](#tech-Stack)
 - [🌟 Projects](#projects)
-- [📫 Get in Touch](#get-in-touch)
+- [📫 Contacts](#get-in-Touch)
 
-## 🚀 About Me
+## 🚀About Me
 
 - 🌱 Currently learning more about SwiftUI and Swift internals to enhance my app development skills.
 - 💻 Experienced in building apps from scratch, integrating APIs, and optimizing performance.
 - 🎨 I enjoy crafting beautiful user interfaces and focusing on user experience.
 - 💬 Always open to collaborating on exciting projects or discussing the latest trends in mobile development and learning methods.
 
-## 🛠 Tech Stack
+## 🛠Tech Stack
 
 - **Languages**: Swift, C++, C
 - **iOS**: SwiftUI, Combine, Async/Await
@@ -29,13 +29,13 @@ I’m a passionate iOS developer dedicated to crafting intuitive and engaging mo
 - **Architecture**: MVVM, MVC, SOLID, Design Patterns
 - **Tools**: Git, GitHub, Swift Package Manager (SPM)
 
-## 🌟 Projects
+## 🌟Projects
 
 - [📱 Mobile Messenger App](https://github.com/KrisMuSs/MobileMessengerApp) – A messenger app built with SwiftUI and Firebase, featuring MVVM architecture, real-time chat, user authentication, and reactive programming with Combine.
 - [🗞 NewsApp](https://github.com/KrisMuSs/NewsApp) – iOS news reader app using SwiftUI, Combine, and URLSession to fetch and display news with smooth image loading and refreshing capabilities.
 - [🧮 Calculator App](https://github.com/KrisMuSs/CalculatorApp) – A simple SwiftUI calculator supporting basic arithmetic operations (+, -, ×, ÷), percentage, sign change, and clear functionality, built using MVVM.
 
-## 📫 Get in Touch
+## 📫Get in Touch
 
 Feel free to reach out if you want to discuss iOS development, collaborate on projects, or exchange ideas.
 
