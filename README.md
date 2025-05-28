@@ -31,7 +31,7 @@ I’m a passionate iOS developer dedicated to crafting intuitive and engaging mo
 
 ## 🌟Projects
 
-- [📱 Mobile Messenger App](https://github.com/KrisMuSs/MobileMessengerApp) – A messenger app built with SwiftUI and Firebase, featuring MVVM architecture, real-time chat, user authentication, and reactive programming with Combine.
+- [📱 Mobile Messenger App](https://github.com/KrisMuSs/MessengerApp) – A messenger app built with SwiftUI and Firebase, featuring MVVM architecture, real-time chat, user authentication, and reactive programming with Combine.
 - [🗞 NewsApp](https://github.com/KrisMuSs/NewsApp) – iOS news reader app using SwiftUI, Combine, and URLSession to fetch and display news with smooth image loading and refreshing capabilities.
 - [🧮 Calculator App](https://github.com/KrisMuSs/CalculatorApp) – A simple SwiftUI calculator supporting basic arithmetic operations (+, -, ×, ÷), percentage, sign change, and clear functionality, built using MVVM.
 
