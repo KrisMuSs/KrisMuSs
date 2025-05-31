@@ -4,7 +4,7 @@
 
 # 👋 Hello, I'm Artem!
 
-I’m a passionate iOS developer dedicated to crafting intuitive and engaging mobile applications. With a solid background in Swift and C++, I love turning ideas into functional, user-friendly apps. My mission is to create software that not only fulfills users’ needs but also delivers a delightful experience. Additionally, I’m eager to deepen my understanding of Swift internals and explore effective methods for teaching programming problem-solving to beginners.
+I’m a passionate iOS developer dedicated to crafting intuitive and engaging mobile applications. With a background in Swift and C++, I love turning ideas into functional, user-friendly apps. My mission is to create software that not only fulfills users’ needs but also delivers a delightful experience. Beyond mobile development, I also have hands-on expertise in Linux environments, embedded systems, and networking technologies.
 
 # 🪧Navigation
 
